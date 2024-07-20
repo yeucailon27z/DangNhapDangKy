@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\DuAn1\PRL_DangNhap\bin\Debug\net6.0-windows\PRL_DangNhap.exe
+C:\Users\Admin\source\repos\DuAn1\PRL_DangNhap\bin\Debug\net6.0-windows\PRL_DangNhap.deps.json
+C:\Users\Admin\source\repos\DuAn1\PRL_DangNhap\bin\Debug\net6.0-windows\PRL_DangNhap.runtimeconfig.json
+C:\Users\Admin\source\repos\DuAn1\PRL_DangNhap\bin\Debug\net6.0-windows\PRL_DangNhap.dll
+C:\Users\Admin\source\repos\DuAn1\PRL_DangNhap\bin\Debug\net6.0-windows\PRL_DangNhap.pdb
+C:\Users\Admin\source\repos\DuAn1\PRL_DangNhap\obj\Debug\net6.0-windows\PRL_DangNhap.Form1.resources
+C:\Users\Admin\source\repos\DuAn1\PRL_DangNhap\obj\Debug\net6.0-windows\PRL_DangNhap.Properties.Resources.resources
+C:\Users\Admin\source\repos\DuAn1\PRL_DangNhap\obj\Debug\net6.0-windows\PRL_DangNhap.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DuAn1\PRL_DangNhap\obj\Debug\net6.0-windows\PRL_DangNhap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DuAn1\PRL_DangNhap\obj\Debug\net6.0-windows\PRL_DangNhap.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DuAn1\PRL_DangNhap\obj\Debug\net6.0-windows\PRL_DangNhap.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DuAn1\PRL_DangNhap\obj\Debug\net6.0-windows\PRL_DangNhap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DuAn1\PRL_DangNhap\obj\Debug\net6.0-windows\PRL_DangNhap.dll
+C:\Users\Admin\source\repos\DuAn1\PRL_DangNhap\obj\Debug\net6.0-windows\refint\PRL_DangNhap.dll
+C:\Users\Admin\source\repos\DuAn1\PRL_DangNhap\obj\Debug\net6.0-windows\PRL_DangNhap.pdb
+C:\Users\Admin\source\repos\DuAn1\PRL_DangNhap\obj\Debug\net6.0-windows\PRL_DangNhap.genruntimeconfig.cache
+C:\Users\Admin\source\repos\DuAn1\PRL_DangNhap\obj\Debug\net6.0-windows\ref\PRL_DangNhap.dll
